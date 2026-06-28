@@ -6,12 +6,12 @@ import { X } from "lucide-react"
 import { Reveal } from "@/components/reveal"
 
 const photos = [
-  { src: "/images/gallery-1.png", caption: "Every sunset is better with you", span: "sm:row-span-2" },
-  { src: "/images/gallery-2.png", caption: "Slow mornings, just us" },
-  { src: "/images/gallery-3.png", caption: "You make the world bloom" },
-  { src: "/images/gallery-6.png", caption: "My hand always finds yours", span: "sm:row-span-2" },
-  { src: "/images/gallery-4.png", caption: "Under the same stars" },
-  { src: "/images/gallery-5.png", caption: "Words I'll never stop writing for you" },
+  { src: "/images/gallery-1.png", caption: "I knew you were special from the very first time we went out", span: "sm:row-span-2" },
+  { src: "/images/gallery-2.png", caption: "You make me so happy when I'm with you Marinel" },
+  { src: "/images/gallery-3.png", caption: "Those lips that never fail to make me fall even harder" },
+  { src: "/images/gallery-6.png", caption: "Hold me tight and never let go", span: "sm:row-span-2" },
+  { src: "/images/gallery-4.png", caption: "There's no other girl I'd call my own, so so beautiful" },
+  { src: "/images/gallery-5.png", caption: "Your smile can brigten up the darkest of days" },
 ]
 
 export function Gallery() {
@@ -27,10 +27,6 @@ export function Gallery() {
           <h2 className="mt-3 text-balance font-heading text-4xl font-semibold leading-tight text-foreground sm:text-6xl">
             Us, in little frames
           </h2>
-          <p className="mx-auto mt-4 max-w-xl text-pretty leading-relaxed text-muted-foreground">
-            Placeholders for now, my love — swap these for our real photos and
-            watch our story fill the page.
-          </p>
         </Reveal>
 
         <div className="mt-16 grid auto-rows-[220px] grid-cols-1 gap-4 sm:grid-cols-3">

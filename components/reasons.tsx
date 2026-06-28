@@ -4,27 +4,27 @@ import { Reveal } from "@/components/reveal"
 const reasons = [
   {
     title: "Your smile",
-    body: "It's the first thing I think about in the morning and the last thing I picture at night. It could light up the darkest room.",
+    body: "It's the kind of smile that makes the rest of the world go quiet. I've memorized every version of it, the shy one, the surprised one and the one you try to hide. They're all mine and I treasure every single one deeply.",
   },
   {
     title: "Your heart",
-    body: "You love so fully and so gently. The way you care for the people around you makes me want to be a better man every day.",
+    body: "You love like it costs you nothing and yet I know how deeply it runs. Watching you love has taught me what love is supposed to look like. You are the standard I aim to reach, Mari. You always will be.",
   },
   {
     title: "Your laugh",
-    body: "That sound is my favorite song. I'd do the silliest things just to hear it one more time.",
+    body: "There is no better sound in the entire world. Not music, not rain, NOTHING!! I would embarrass myself a thousand times over just to be the reason it happens.",
   },
   {
     title: "Your strength",
-    body: "You carry so much with such grace. You inspire me more than you'll ever know, my Queen.",
+    body: "You don't even see it and that's what moves me most. You bend but never break. You hold everything together so quietly, so beautifully. I am in awe of you every single day.",
   },
   {
     title: "The little things",
-    body: "The way you say my name, your sleepy texts, your hugs that feel like home. The small moments are my favorite ones.",
+    body: "The way you make me miss you when you're not here. The warmth and softness of your touch. Your charming sense of humour. The way in which you forgive and move me to be better.",
   },
   {
     title: "Simply you",
-    body: "I don't need a reason, really. Loving you is the easiest thing I've ever done. It's just you, all of you, always.",
+    body: "Not a version of you, not you on your best day or your worst, all of you! Every strength, every layer, every flaw, all of it Marinel. Loving you isn't something I decided, it is just something I am.",
   },
 ]
 
